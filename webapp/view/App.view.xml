@@ -1,0 +1,19 @@
+<mvc:View controllerName="com.fcl.fclproject.controller.App"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+     xmlns="sap.f" height="100%">
+    
+        <FlexibleColumnLayout 
+        id="fcl"
+        
+        >
+        <beginColumnPages>
+            <mvc:XMLView id="beginView" async="true" viewName="com.fcl.fclproject.view.List" />
+        </beginColumnPages>
+
+        </FlexibleColumnLayout>
+   
+</mvc:View>
+
+
+

@@ -1,0 +1,23 @@
+<mvc:View controllerName="com.fcl.fclproject.controller.Detail"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m" xmlns:f="sap.f">
+
+<Page title="SELECT YOUR FOOD LIST">
+
+   <List id="detailListItems" itemPress="onDetailItemPress" items="{/}">
+   
+   	<StandardListItem type="Navigation"
+	  title="{name}"
+      icon="sap-icon://begin"/>
+        
+   </List> 
+   <List >
+   
+   
+   </List>
+   
+        
+         </Page>
+
+</mvc:View>

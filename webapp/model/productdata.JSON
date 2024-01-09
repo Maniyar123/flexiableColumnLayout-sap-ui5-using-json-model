@@ -1,0 +1,153 @@
+{
+    "tittle": "COMPANIES",
+    "companies": [
+        {
+            "name": "ZOMATO",
+            "id": 1,
+            "items": [
+                {
+                    "name": "DINNER",
+                    "items": [
+                        {
+                            "name": "roti",
+                            "price": "150/-"
+                        },
+                        {
+                            "name": "parota",
+                            "price": "200/-"
+                        }
+                    ]
+                },
+                {
+                    "name": "LUNCH",
+                    "items": [
+                        {
+                            "name": "daal rice",
+                            "price": "300/-"
+                        },
+                        {
+                            "name": "veg Thali",
+                            "price": "500/-"
+                        }
+                    ]
+                },
+                {
+                    "name": "BREAKFAST",
+                    "items": [
+                        {
+                            "name": "Dosa",
+                            "price": "50/-"
+                        },
+                        {
+                            "name": "puri",
+                            "price": "70/-"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SWIGGY",
+            "id": 2,
+            "items": [
+                {
+                    "name": "Good Morning breakfast",
+                    "items": [
+                        {
+                            "name": "idly",
+                            "price": "30/-"
+                        },
+                        {
+                            "name": "pasta",
+                            "price": "250/-"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Lunch",
+                    "items": [
+                        {
+                            "name": "Non-Veg Thali",
+                            "price": "700/-"
+                        },
+                        {
+                            "name": "Chiken Rice",
+                            "price": "150/-"
+                        }
+                    ]
+                },
+                {
+                    "name": "Simple Dinner",
+                    "items": [
+                        {
+                            "name": "Egg Rice",
+                            "price": "700/-"
+                        },
+                        {
+                            "name": "Egg Parota",
+                            "price": "60/-"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sweet's",
+                    "items": [
+                        {
+                            "name": "Khoya",
+                            "price": "300/-"
+                        },
+                        {
+                            "name": "Kaju Katli",
+                            "price": "900/-"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "UBER EAT'S",
+            "id": 3,
+            "items": [
+                {
+                    "name": "Dessert's",
+                    "items": [
+                        {
+                            "name": "Apricot Delight",
+                            "price": "500/-"
+                        },
+                        {
+                            "name": "Apple Pie",
+                            "price": "300/-"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cake's",
+                    "items": [
+                        {
+                            "name": "Red Velvet",
+                            "price": "350/-"
+                        },
+                        {
+                            "name": "Black Forest",
+                            "price": "600/-"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sweet's",
+                    "items": [
+                        {
+                            "name": "Shahi Tukda",
+                            "price": "800/-"
+                        },
+                        {
+                            "name": "Motichur Laddu",
+                            "price": "300/-"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

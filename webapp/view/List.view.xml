@@ -1,0 +1,13 @@
+<mvc:View controllerName="com.fcl.fclproject.controller.List"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <List id="listItems" headerText="{newModel>/tittle}" itemPress="onListItemPress" items="{newModel>/companies}" >
+   
+   	  <StandardListItem type="Navigation"
+	  title="{newModel>name}"
+      icon="sap-icon://begin"
+      />
+   </List>
+    </Page>
+</mvc:View>
